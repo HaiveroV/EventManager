@@ -1,2 +1,2 @@
 # EventManager
-Event Managin Application
+Event Managing Application

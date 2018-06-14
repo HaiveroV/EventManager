@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\EventAp\EventManager\EventManager\bin\Debug\EventManager.exe.config
+C:\Users\user\Desktop\EventAp\EventManager\EventManager\bin\Debug\EventManager.exe
+C:\Users\user\Desktop\EventAp\EventManager\EventManager\bin\Debug\EventManager.pdb
+C:\Users\user\Desktop\EventAp\EventManager\EventManager\obj\Debug\EventManager.csprojAssemblyReference.cache
+C:\Users\user\Desktop\EventAp\EventManager\EventManager\obj\Debug\EventManager.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\EventAp\EventManager\EventManager\obj\Debug\EventManager.exe
+C:\Users\user\Desktop\EventAp\EventManager\EventManager\obj\Debug\EventManager.pdb
